@@ -41,13 +41,13 @@ export function Navbar() {
         <Button
           fontSize={"var(--txt-home-size)"}
           fontWeight="300"
-          leftIcon={colorMode === "dark" ? <SunIcon /> : <MoonIcon />}
+          leftIcon={colorMode === "dark" ? <MoonIcon /> : <SunIcon />}
           // px={{ base: 0, lg: 4 }}
           p={0}
           variant={"ghost"}
           onClick={toggleColorMode}
         >
-          Dark Mode
+          {colorMode === "dark" ? "Dark Mode" : "Light Mode"}
         </Button>
       </Stack>
     </Stack>
