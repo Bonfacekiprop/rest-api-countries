@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor solution URL here](https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher--dCas2Fh1I)
+- Live Site URL: [Live site URL](https://restapi-countries.vercel.app/)
 
 ## My process
 
@@ -77,7 +77,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Juliana Sau](https://julianasau.vercel.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@JulianaSau](https://www.frontendmentor.io/profile/JulianaSau)
 - Twitter - [@juliana_sau](https://www.twitter.com/juliana_sau)
 
 ## Acknowledgments
